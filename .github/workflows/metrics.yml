@@ -19,8 +19,8 @@ jobs:
 
           # Configurações básicas
           user: joaoSantos213
-          template: classic
-          base: header, activity, community, repositories, metadata
+          template: terminal
+          base: header, activity, repositories, metadata
           config_timezone: Europe/Lisbon
           filename: github-metrics.svg
 
@@ -37,7 +37,7 @@ jobs:
           plugin_languages_threshold: 0%
 
           # Plugin de Hábitos (Mostra os teus horários e dias mais produtivos de commit)
-          plugin_habits: yes
+          plugin_habits: no
           plugin_habits_days: 14
           plugin_habits_facts: yes
           plugin_habits_charts: yes
