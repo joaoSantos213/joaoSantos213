@@ -19,12 +19,11 @@ jobs:
 
           # Configurações básicas
           user: joaoSantos213
-          template: terminal
+          template: flat
           base: header, activity, repositories, metadata
           config_timezone: Europe/Lisbon
           filename: github-metrics.svg
 
-          # Plugin de Linguagens (Mostra as linguagens mais usadas nos teus repositórios)
           plugin_languages: yes
           plugin_languages_analysis_timeout: 15
           plugin_languages_categories: markup, programming
@@ -36,11 +35,7 @@ jobs:
           plugin_languages_sections: most-used
           plugin_languages_threshold: 0%
 
-          # Plugin de Hábitos (Mostra os teus horários e dias mais produtivos de commit)
+          # Desligar os hábitos para remover o "Unexpected error"
           plugin_habits: no
-          plugin_habits_days: 14
-          plugin_habits_facts: yes
-          plugin_habits_charts: yes
           
-          # Plugin de Linhas de Código (Opcional, conta as linhas totais adicionadas/removidas)
           plugin_lines: yes
