@@ -46,10 +46,17 @@ Beyond traditional development, I spend a lot of time exploring and optimizing l
 
 ### 📊 GitHub Metrics
 
-![GitHub Metrics](./github-metrics.svg)
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=joaoSantos213&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" height="195"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=joaoSantos213&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="195"/>
+</div>
+<br>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaoSantos213&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+</div>
 
 ---
 
 ### ⚡ Connect with me
 * 💼 [LinkedIn](www.linkedin.com/in/joao-santos22)
-* 📧 joaotato@live.com.pt
+* 📧 [Email](joaotato@live.com.pt)
