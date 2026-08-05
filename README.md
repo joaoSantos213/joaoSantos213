@@ -47,12 +47,12 @@ Beyond traditional development, I spend a lot of time exploring and optimizing l
 ### 📊 GitHub Metrics
 
 <div align="center">
-  <img src="https://readme-vercel-fjvsg0iip-juan-5575.vercel.app/api?username=joaoSantos213&show_icons=true&theme=onedark&hide_border=true&include_all_commits=true&v=1" alt="GitHub Stats" height="195"/>
+  <img src="https://https://readme-vercel-juan-5575.vercel.app/api?username=joaoSantos213&show_icons=true&theme=onedark&hide_border=true&include_all_commits=true&v=1" alt="GitHub Stats" height="195"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=joaoSantos213&theme=onedark&hide_border=true" alt="GitHub Streak" height="195"/>
 </div>
 <br>
 <div align="center">
-  <img src="https://readme-vercel-fjvsg0iip-juan-5575.vercel.app/api/top-langs/?username=joaoSantos213&layout=compact&theme=onedark&hide_border=true&v=1" alt="Top Languages" />
+  <img src="https://https://readme-vercel-juan-5575.vercel.app/api/top-langs/?username=joaoSantos213&layout=compact&theme=onedark&hide_border=true&v=1" alt="Top Languages" />
 </div>
 
 
